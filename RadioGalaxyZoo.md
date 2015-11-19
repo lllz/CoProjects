@@ -24,11 +24,12 @@ Astronomers need your help to find spectacular jets and match them to the galaxy
 [Radio Galaxy Zoo](http://radio.galaxyzoo.org) gives you a visual tool where you can see two images of the same part of the sky, one from a radio telescope and one from an infrared telescope.
 There is a requirement of the observation power and accuracy.
 
+**[Start classify](http://radio.galaxyzoo.org/#/classify)**
 
-# Additional links
+# Useful links
 
-[Start classify](http://radio.galaxyzoo.org/#/classify)
+[Project Team](http://radio.galaxyzoo.org/#/team)
 
 [What is a Black Hole?](http://www.nasa.gov/audience/forstudents/k-4/stories/nasa-knows/what-is-a-black-hole-k4.html)
 
-#Metadata
+# Metadata
