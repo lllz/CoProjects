@@ -20,11 +20,11 @@ Previous radio SETI projects have used special-purpose supercomputers, located a
 
 # How I can help
 
-Many of us have various not often used computers in home or offices (media centers as an example). So you can share this idle computer power and help the SETI project just download and run the application.
+Many of us have various not often used computers at homes or offices (media centers as an example). So you can share this idle computer power and help the SETI project just by downloading and running the application.
 
 **[Participate in SETI@home](http://setiathome.berkeley.edu/sah_participate.php)**
 
-But if you are a developer, then you can help with optimization and porting of the software for various platforms. This way you will help to expand the area where SETI@home can be running.
+But if you are a developer, then you can also help with optimization and porting of the software for various platforms. In such way you will help to expand the area where SETI@home can run.
 How about your smart TV?
 
 **[Porting and optimizing SETI@home](http://setiathome.berkeley.edu/sah_porting.php)**
