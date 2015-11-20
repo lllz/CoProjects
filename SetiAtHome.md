@@ -8,8 +8,6 @@ Our current understanding of life’s origin on Earth suggests that given a suit
 
 One approach, known as radio SETI, uses radio telescopes to listen for narrow-bandwidth radio signals from space. Such signals are not known to occur naturally, so a detection would provide evidence of extraterrestrial technology.
 
-*(from [SETI site](http://www.seti.org/) and [SETI@home](http://setiathome.ssl.berkeley.edu/))*
-
 # About the project
 
 [SETI@home](http://setiathome.ssl.berkeley.edu/) is a scientific experiment that uses Internet-connected computers in the SETI. You can participate by running a free program that downloads and analyzes radio telescope data.
@@ -34,3 +32,8 @@ How about your smart TV?
 [About SETI@home and team](http://setiathome.berkeley.edu/sah_about.php)
 
 [Additional Challenge: SETI Data Quest](http://spacer.im/2015/11/13/seti-data-quest/)
+
+### Sources
+
+1. *[SETI site](http://www.seti.org/)*
+2. *[SETI@home](http://setiathome.ssl.berkeley.edu/)*
