@@ -4,7 +4,7 @@
 
 [Mars Reconnaissance Orbiter (MRO)](http://mars.jpl.nasa.gov/mro/) is a multipurpose spacecraft designed to conduct reconnaissance and exploration of Mars from orbit. The US$720 million spacecraft was built by Lockheed Martin under the supervision of the Jet Propulsion Laboratory. The mission is managed by the California Institute of Technology, at the JPL, in La Cañada Flintridge, California, for the NASA Science Mission Directorate, Washington, D.C. It was launched August 12, 2005, and attained Martian orbit on March 10, 2006. In November 2006, after five months of aerobraking, it entered its final science orbit and began its primary science phase.
 
-NASA's Mars Reconnaissance Orbiter on a search for evidence that water persisted on the surface of Mars for a long period of time. While other Mars missions have shown that water flowed across the surface in Mars' history, it remains a mystery whether water was ever around long enough to provide a habitat for life.
+NASA's Mars Reconnaissance Orbiter is on a search for evidence that water persisted on the surface of Mars for a long period of time. While other Mars missions have shown that water flowed across the surface in Mars' history, it remains a mystery whether water was ever around long enough to provide a habitat for life.
 
 # About the project
 
@@ -15,7 +15,7 @@ The images on this site come from the HiRISE (High Resolution Imaging Science Ex
 
 # How I can help
 
-Scientists need your help to find and mark ‘fans’ and ‘blotches’ on the Martian surface. Scientists believe that these features indicate wind direction and speed. By tracking ‘fans’ and ‘blotches’ over the course of several Martian years to see how they form, evolve, disappear and reform, we can help planetary scientists better understand Mars’ climate. The team also hope to find out if these features form in the same spot each year and also learn how they change.
+Scientists need your help to find and mark ‘fans’ and ‘blotches’ on the Martian surface. Scientists believe that these features indicate wind direction and speed. By tracking ‘fans’ and ‘blotches’ over the course of several Martian years to see how they form, evolve, disappear and reform, we can help planetary scientists better understand Mars’ climate. The team also hopes to find out if these features form in the same spot each year and also learn how they change.
 
 Your markings will be collected together with the markings made by other volunteers on that same image. Taking an average of these markings, scientists will produce an extremely reliable map of the ‘fan,’ and ‘blotch’ features on the surface of Mars and the first large scale measurement of wind on the planet!
 
