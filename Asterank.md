@@ -6,7 +6,7 @@ Asteroids are minor planets, especially those of the inner Solar System. The lar
 
 # About the project
 
-[Asterank](http://www.asterank.com) is a scientific and economic database of over 600,000 asteroids. This database is created and maintained by Ian Webster.
+[Asterank](http://www.asterank.com) is a scientific and economic database of over 600,000 asteroids. This database was created and is maintained by Ian Webster.
 
 They've collected, computed, or inferred important data such as asteroid mass and composition from multiple scientific sources. With this information, we estimate the costs and rewards of mining asteroids.
 
