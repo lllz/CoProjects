@@ -1,4 +1,4 @@
-![Apollo Equipment. Credits: NASA](ApolloEquip.jpg)
+![Apollo Equipment. Credits: NASA](./images/ApolloEquip.jpg)
 
 # Introduction
 
