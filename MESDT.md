@@ -8,11 +8,11 @@ The NASA Jet Propulsion Laboratory (JPL) and Arizona State University (ASU) have
 
 Through the Mars Exploration Student Data Teams (MESDT), students (high school through college) join with Mars scientists to analyze real data from Mars. NASA and Arizona State University’s Mars Education Program is offering students nationwide the opportunity to be involved in authentic Mars research by participating in the Mars Exploration Student Data Teams (MESDT).
 
-Teams of students in high school through college will have the opportunity to work with scientists, mission planners and educators on the collection and analysis of data as it is downloaded from instruments currently orbiting mars.
+Teams of students in high school through college will have the opportunity to work with scientists, mission planners and educators on the collection and analysis of data as it is downloaded from instruments currently orbiting Mars.
 
 # How I can help
 
-**US citizen only**
+**For US citizens only**
 
 Students involved in MESDT will be working during the mission operations associated with the Mars Reconnaissance Orbiter. As far as the instrument we would be working with, it is CRISM (Compact Reconnaissance Imaging Spectrometer for Mars) on board the Mars Reconnaissance Orbiter, currently orbiting Mars. Some of the tasks student groups would be responsible for:
 Work during mission operations, analyzing real Mars mission data.
