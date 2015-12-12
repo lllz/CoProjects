@@ -18,7 +18,7 @@ Seven winning programs, now part of the Astro Pi payload, blasted off from Cape 
 
 Even though the competition is closed, there are all sorts of ways you can get involved with Astro Pi!
 
-They have a range of new Astro Pi educational resources available. Tim Peake will be on board the ISS until May 2016, there will be opportunities to examine the results of the winning competition experiments, and there will also be a data analysis activity where you can obtain a CSV file full of time-stamped sensor readings direct from Tim.
+They have a range of new Astro Pi educational resources available. Tim Peake will be on board the ISS until May 2016, there will be opportunities to examine the results of the winning competition experiments, and there will also be a data analysis activity where you can obtain a CSV file full of time-stamped sensor readings directly from Tim.
 
 **[Get Involved](https://astro-pi.org/get-involved/)**
 
