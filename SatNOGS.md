@@ -13,9 +13,9 @@ They support VHF and UHF bands for the reception with the default configuration,
 
 # How I can help
 
-They like Open Source practices in both software and hardware. You can help them by contributing to the project, making it better one commit at the time.
+The project could benefit a lot from your participation in its Open Source software and hardware improvements. You can help SatNOGS by contributing to the project, making it better one commit at a time.
 
-**[Project repositories on Github](https://github.com/satnogs)**
+**[Project repositories on GitHub](https://github.com/satnogs)**
 
 If you are willing to connect your rotator to the SatNOGS network it is recommended to have access to an ADSL or a 3G data connection, for uploading the data back to the network.
 
