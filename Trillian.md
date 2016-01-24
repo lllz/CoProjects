@@ -6,6 +6,16 @@ Astronomy produces extremely large data sets from ground-based telescopes, space
 
 A primary component of how this will be accomplished is through a distributed, scalable computation engine. An astronomer need only supply a model — in physical units — as a small piece of code and submit it to Trillian. The engine will then apply this model against all data available. The user will not need to worry about the details of where the data is or even where the computation is taking place.
 
+## Work with Physical Models
+
+Define your model in physical units (e.g. temperature, surface gravity, luminosity, distance) for any range of wavelengths and resolution. Trillian will pass it through each available instrument and determine what it would look like as observed by that telescope.
+
+## Public API to Astronomical Data
+
+As one component of Trillian is to store large amounts of data, this provides an opportunity for data access through a streamlined, consistent application programming interface. This API will be made public as part of this project.
+
+# How I can participate?
+
 Trillian is being designed with modern methods of data access and handling on a large scale (and even expects to push the envelope in this space).
 
 **[Trillian for Astronomers](http://trillianverse.org/astronomers.html)**
