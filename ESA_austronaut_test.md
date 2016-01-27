@@ -29,4 +29,4 @@ ESA’s Head of Astronaut Training, Rüdiger Seine, explains: “By 'playing' wi
 
 ## Credits and texts
 
-[ESA website](http://trillianverse.org/)
+[ESA website](http://trillianverse.org/) 
