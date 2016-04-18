@@ -18,7 +18,7 @@ If you want to make Cylon.JS even better (even fixing typos!),
 check out [the GitHub page](https://github.com/hybridgroup/cylon/).
 
 You can suggest a feature, report a bug, show them something cool you made.
-Also you can create more platforms and [report about it](https://github.com/hybridgroup/cylon-site#send-your-pull-request).
+Also you can create more platforms and [report about them](https://github.com/hybridgroup/cylon-site#send-your-pull-request).
 
 **[Read how to contribute](https://cylonjs.com/documentation/getting-started/#contributing)**
 
