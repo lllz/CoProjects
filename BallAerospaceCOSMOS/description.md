@@ -26,7 +26,7 @@ Contributing is easy.
 
 Before any contributions can be incorporated we do require all contributors to sign a Contributor License Agreement here: [Contributor License Agreement](https://docs.google.com/forms/d/1ppnHUSXtY1GRTNPIyUaB1OYHbW5Ca67GFMgMRPBG8u0/viewform)
 
-This protects both you and them and you retain full rights to any code you write.
+This protects both you and them while you retain full rights to any code you write.
 
 ## Useful links
 
